@@ -5,6 +5,6 @@
                         3/ peek 
                         4/ display
 
-2) wap to rever the first k element of a queue
+2) wap to reverse the first k element of a queue
 
 3) wap to calculate max sum of 2 numbers formed from digits of an array
